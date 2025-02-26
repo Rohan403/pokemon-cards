@@ -26,8 +26,8 @@ To run this project on your local machine, follow these steps:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/pokemon-explorer.git
-cd pokemon-explorer
+git clone https://github.com/YOUR_USERNAME/pokemon-cards.git
+cd pokemon-cards
 ```
 ### 2️⃣ Install Dependencies
 npm install
