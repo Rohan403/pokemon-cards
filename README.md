@@ -26,7 +26,7 @@ To run this project on your local machine, follow these steps:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/pokemon-cards.git
+git clone https://github.com/Rohan403/pokemon-cards
 cd pokemon-cards
 ```
 ### 2️⃣ Install Dependencies
